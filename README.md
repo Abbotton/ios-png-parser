@@ -2,7 +2,7 @@
 A PHP-based tool for parsing IOS application icons in IPA files
 # Installation
 ```
-composer require abbotton/ios-png-parser
+composer require abbotton/ios-png-parser=dev-master --prefer-dist
 ```
 # Usage
 ```php
