@@ -1,0 +1,21 @@
+{
+    "name": "abbotton/ios-png-parser",
+    "description": "A PHP-based tool for parsing IOS application icons in IPA files",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abbotton",
+            "email": "uctoo@foxmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "IosPngParser\\": "src/"
+        }
+    }
+}
